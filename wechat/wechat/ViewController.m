@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"代码仓库怎么样");
+    NSLog(@"更改了代码仓库");
 }
 
 @end
